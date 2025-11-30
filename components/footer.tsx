@@ -86,7 +86,7 @@ export function Footer() {
               className="transition-transform hover:scale-105"
             >
               <div className="relative w-[80px] h-[32px] md:w-[100px] md:h-[40px] p-2 rounded bg-background/10 hover:bg-background/20">
-                <Image src="/gamecare-new.svg" alt="GamCare" fill className="object-contain" />
+                <Image src="/gamecare.svg" alt="GamCare" fill className="object-contain" />
               </div>
             </Link>
 
@@ -111,7 +111,7 @@ export function Footer() {
                 <Image src="/pbsvi.svg" alt="PBSVI" fill className="object-contain" />
               </div>
             </Link>
-            
+
             <Link
               href="https://www.hupis.hr/klok"
               target="_blank"
